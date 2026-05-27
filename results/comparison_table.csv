@@ -1,0 +1,301 @@
+id,ground_truth,complexity,question_type,raw_correct,proc_correct,raw_time,proc_time,vlm_answer,vlm_correct,vlm_time
+0,0.28,simple,figure/diagram,False,False,2.593,1.056,0.24,False,9.127
+1,university of california,medium,others,False,False,0.373,1.194,"UNIVERSITY OF CALIFORNIA, SAN DIEGO",True,1.23
+2,itc limited,simple,layout,True,True,3.782,3.639,ITC Limited,True,0.562
+3,san diego,simple,others,True,True,0.373,2.106,"UNIVERSITY OF CALIFORNIA, SAN DIEGO",True,1.148
+4,Paul,simple,handwritten,False,False,0.612,2.057,Paul,True,0.456
+5,"1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036",complex,layout,False,False,1.878,1.688,"1928 SIXTEENTH ST., N.W., WASHINGTON, D.C.",False,1.665
+6,aashirvaad,simple,Image/Photo,False,False,3.891,4.654,AASHIRWAAD,False,0.601
+7,The Robert A. Welch Foundation,medium,layout,True,True,5.956,3.26,THE ROBERT A. WELCH FOUNDATION,True,0.806
+8,11:14 to 11:39 a.m.,medium,table/list,False,False,2.683,4.318,11:14 to 11:39 a.m.,True,1.26
+9,$975.00,simple,form,False,False,6.3,3.316,$ 975.00,False,0.852
+10,TRRF Vice President,medium,table/list,True,True,3.939,3.295,Lee A. Waller,False,0.691
+11,dark fantasy,simple,Image/Photo,False,False,3.87,3.635,Dark Fantasy,True,0.506
+12,wills lifestyle,simple,Image/Photo,False,False,6.124,3.644,WILLS,False,0.529
+13,2,simple,table/list,True,True,5.322,7.337,2,True,0.437
+14,12:25 to 12:58 p.m.,medium,table/list,False,False,2.648,2.565,12:25 to 12:58 p.m.,True,1.071
+15,2,simple,table/list,True,True,7.381,5.359,2,True,0.433
+16,6,simple,table/list,True,True,6.308,6.569,6,True,0.438
+17,6,simple,table/list,True,True,5.362,7.433,6,True,0.436
+18,trrf scientific advisory council meeting,medium,table/list,False,False,2.716,2.523,TRRF Scientific Advisory Council Meeting,True,0.666
+19,3,simple,table/list,True,True,7.423,5.261,3,True,0.436
+20,cigfil limited,simple,layout,True,True,3.131,4.462,CIGFIL LIMITED,True,0.614
+21,chennai,simple,layout,True,True,3.806,3.149,Chennai,True,0.497
+22,(79.23%),simple,form,False,False,3.184,4.427,79.23%,False,0.658
+23,11:39 to 11:44 a.m.,medium,table/list,False,False,3.25,2.598,11:39 to 11:44 a.m.,True,1.053
+24,As competitor's joined the price war,medium,free_text,True,True,1.073,1.158,"As competitor's joined the price war, Taco Bell's strong consumer base decreased.",True,1.105
+25,82.85,simple,form,True,True,3.24,5.186,(82.85%),True,0.709
+26,20.77%,simple,form,True,True,3.174,3.147,20.77%,True,0.712
+27,17.15,simple,form,True,True,3.17,5.223,(330.44),False,0.879
+28,A. C. Monk,medium,table/list,False,False,2.54,3.952,A. C. Monk,True,0.712
+29,31,simple,layout,True,False,1.083,1.153,31,True,0.515
+30,ITC Limited,simple,layout,True,True,4.409,3.09,ITC Limited,True,0.617
+31,bengaluru,simple,free_text,True,True,2.785,2.662,Bengaluru,True,0.595
+32,2,simple,table/list,True,True,2.695,5.892,2,True,0.433
+33,22,simple,table/list,True,True,2.522,3.962,22,True,0.496
+34,y. c. deveshwar,medium,table/list,True,False,8.888,6.916,A. Vijayagopalan,False,0.713
+35,"10,000",simple,table/list,False,True,8.974,7.426,"10,000",True,0.666
+36,"24,26,435",simple,table/list,True,True,8.361,8.513,"24,26,435",True,0.82
+37,70%,simple,table/list,False,False,2.086,1.601,70,False,0.5
+38,"14,000",simple,table/list,False,True,6.922,8.955,"14,000",True,0.673
+39,57,simple,table/list,False,False,1.58,1.616,57,True,0.508
+40,ITC LIMITED,simple,layout,True,True,7.745,5.13,ITC Limited,True,0.543
+41,The Environment,simple,layout,True,True,1.605,2.031,The Environment,True,0.507
+42,2013,simple,layout,True,True,7.769,5.015,2013,True,0.596
+43,50,simple,free_text,True,True,7.795,5.071,over 50,True,0.608
+44,"Essenza Di Wills, Fiama Di Wills, Vivel and Superia",complex,free_text,False,False,6.634,6.145,"Vivel, Superia, Personal Care products segment, Agarbatti",False,1.027
+45,Classmate and Paperkraft,medium,free_text,True,True,5.724,7.108,"Classmate, Paperkraft",False,0.671
+46,Wills Lifestyle and John Players,medium,free_text,False,False,5.796,7.064,Mangaldeep and Agarbatti.,False,0.931
+47,Mangaldeep,simple,free_text,True,True,5.721,5.836,Mangaldeep,True,0.685
+48,Aim,simple,free_text,True,True,6.846,4.975,AIM,True,0.478
+49,Responsible Luxury,simple,free_text,True,True,7.695,5.079,Responsible Luxury,True,0.609
+50,$200,simple,form,False,False,4.891,4.408,$200,True,0.64
+51,$485,simple,form,False,False,3.918,3.517,$485,True,0.587
+52,82%,simple,table/list,False,False,2.625,2.553,82,False,0.513
+53,Emotional Enhancement,simple,layout,True,True,1.609,1.598,Emotional Enhancement,True,0.554
+54,29,simple,layout,False,False,1.648,1.586,29,True,0.514
+55,meharry medical college,medium,layout,True,True,1.306,1.117,Meharry Medical College,True,0.66
+56,Scissors Menthol Fresh,medium,Image/Photo,False,False,1.162,1.627,Scissors Menthol Fresh,True,0.643
+57,February 24,simple,form,True,False,4.994,3.521,"February 24, 1966",True,0.856
+58,64%,simple,table/list,False,False,1.568,1.571,64,False,0.52
+59,Wendell Rodricks Now At Wills Lifestyle,medium,Image/Photo,False,False,1.022,1.638,Now at Wills Lifestyle,False,0.648
+60,16,simple,layout,True,True,2.402,1.649,16,True,0.522
+61,"GENERAL FOOD FUND, INC",medium,form,False,False,1.273,1.141,"General Foods Fund, Inc.",False,0.7
+62,johnplayers jeans,simple,Image/Photo,False,False,1.012,0.982,John Players Jeans,False,0.586
+63,Uttar Pradesh and Kerala,medium,Image/Photo,False,False,1.017,0.974,Uttar Pradesh and Kerala.,True,0.749
+64,seven,simple,free_text,True,True,5.319,3.66,seven,True,0.468
+65,58.5,simple,table/list,True,True,4.046,3.064,58.5,True,0.69
+66,40,simple,table/list,True,True,6.033,3.018,25,False,0.541
+67,30,simple,table/list,True,True,4.055,3.686,30,True,0.559
+68,5,simple,table/list,True,True,5.046,3.009,5,True,0.486
+69,33.0,simple,table/list,True,True,4.09,4.826,33.0,True,0.675
+70,37.0,simple,table/list,True,True,4.173,2.902,37.0,True,0.602
+71,TEN,simple,free_text,True,True,4.191,5.054,Ten,True,0.497
+72,FOUR WEEKS,simple,free_text,True,True,3.722,3.53,four weeks,True,0.538
+73,CAUDAL VEIN,simple,free_text,True,True,5.793,3.51,caudal vein,True,0.623
+74,ITC Limited,simple,layout,False,False,1.289,0.593,ITC Limited,True,0.59
+75,BASAL DIET,simple,free_text,True,True,3.735,5.54,basal + cholesterol and cholic acid,False,0.813
+76,103,simple,table/list,False,False,3.683,3.474,103,True,0.591
+77,PLATTE COUNTY VOLUNTEERS AGAINST HUNGER,medium,form,True,True,1.342,0.837,Platte County Volunteers Against Hunger,True,0.72
+78,itc,simple,layout,False,False,1.922,0.952,ITC Limited,True,0.621
+79,"34,400",simple,table/list,False,True,3.276,2.328,"34,400",True,0.722
+80,29.9,simple,table/list,False,True,2.537,2.383,29.9,True,0.628
+81,report and accounts,medium,layout,False,False,1.286,0.915,REPORT AND ACCOUNTS,True,0.63
+82,ltl service,simple,free_text,True,True,5.719,3.621,LTL service,True,0.576
+83,"1,423",simple,table/list,False,True,2.505,2.703,"1,423",True,0.678
+84,"33,600",simple,table/list,False,True,5.508,2.35,"33,600",True,0.804
+85,scientists,simple,free_text,False,False,5.204,7.662,scientists themselves,True,0.655
+86,Dr. Joseph C. Hwang,medium,free_text,True,True,5.312,7.651,Dr. Joseph C. Huang,False,0.797
+87,Dr. Arley T. Bever,medium,free_text,True,True,5.276,6.609,Dr. Arley T. Revet,False,0.999
+88,four,simple,free_text,True,True,6.12,5.608,four,True,0.499
+89,esequiel granado,simple,free_text,True,True,6.807,3.7,ESEQUIEL GRANADO,True,0.775
+90,Steering Committee Meeting,medium,layout,True,True,3.979,5.087,Steering Committee Meeting,True,0.623
+91,Volunteers Against Hunger Steering Committee,medium,layout,True,True,4.043,3.161,Volunteers Against Hunger Steering Committee,True,0.732
+92,Bert Shulimson,simple,layout,True,True,4.613,4.422,Bert Shulimson,True,0.674
+93,bingo,simple,Image/Photo,True,True,1.348,0.983,Bingo!,True,0.601
+94,"Holiday Inn Downtown , Jefferson City , Missouri",complex,free_text,False,False,3.899,4.003,"Holiday Inn Downtown, Jefferson City, Missouri",False,0.811
+95,candyman,simple,Image/Photo,False,False,2.194,1.212,CANDYMAN,True,0.653
+96,available,simple,layout,True,True,4.398,3.686,Available,True,0.507
+97,wanted,simple,layout,True,True,6.472,3.778,WANTED,True,0.545
+98,independent ice and cold storage co.,medium,layout,False,False,4.491,5.707,INDEPENDENT ICE AND COLD STORAGE CO.,True,0.909
+99,Menopausal Health Publication Management,medium,layout,True,True,4.512,4.849,Menopausal Health Publication Management,True,0.744
+100,20 years,simple,free_text,True,True,6.36,3.66,20 years,True,0.666
+101,10:00 - 11:30 AM,medium,layout,False,False,4.542,6.855,10:00 - 11:30 AM,True,1.27
+102,ronald f. meyer,medium,free_text,True,False,4.44,3.626,Ronald F. Meyer,True,0.755
+103,609/924-6648,simple,form,True,True,6.467,4.814,609/924-6648,True,1.232
+104,"January 18, 2005",medium,form,True,True,5.308,6.002,"January 18, 2005",True,0.902
+105,swanson center for nutrition,medium,layout,True,False,4.469,5.766,Swanson Center for Nutrition,True,0.686
+106,mint-o,simple,Image/Photo,False,False,1.777,0.977,CANDYMAN,False,0.667
+107,1979,simple,layout,True,True,4.48,4.596,1979,True,0.64
+108,bingo,simple,Image/Photo,True,True,2.207,1.689,Bingo!,True,0.619
+109,july,simple,layout,True,False,4.353,4.304,"July, 1979",True,0.772
+110,bingo,simple,Image/Photo,True,True,1.348,1.71,Bingo!,True,0.629
+111,723,simple,table/list,True,True,5.428,4.342,723,True,0.594
+112,candyman,simple,Image/Photo,False,False,1.293,0.992,Candyman,True,0.615
+113,projects,simple,table/list,True,True,6.37,4.301,1) Projects,True,0.606
+114,mint-o,simple,Image/Photo,False,False,1.27,0.996,Candyman,False,0.604
+115,candyman,simple,Image/Photo,False,False,1.326,1.026,Candyman,True,0.604
+116,Aashirvaad,simple,Image/Photo,True,True,6.948,5.242,Aashirvaad,True,0.705
+117,ITC Limited,simple,layout,False,False,7.057,5.274,ITC Limited,True,0.646
+118,Sunfeast Yippee!,simple,free_text,True,True,5.237,6.909,Sunfeast Yippee!,True,0.901
+119,mint-o Ultra mintz,medium,free_text,True,True,4.949,7.323,Candyman Crème Lacto,False,0.915
+120,Fiama Di Wills,medium,free_text,True,True,4.978,5.942,ITC has developed Liquid Crystal Freezing Technology for its Fiama Di Wills Men brand.,True,1.447
+121,ITC Limited,simple,Image/Photo,True,True,1.779,1.473,ITC Limited,True,0.596
+122,Sunfeast,simple,Image/Photo,True,True,1.072,0.991,Sunfeast,True,0.595
+123,Snacky,simple,Image/Photo,False,False,1.075,1.016,Dream Leaf,False,0.538
+124,Dream Cream,simple,Image/Photo,False,False,1.08,0.982,Dream LeaP,False,0.631
+125,"Carol A. Tozzi, Ph.D.",medium,form,True,True,5.591,5.642,"Carol A. Tozzi, Ph.D.",True,0.884
+126,"July 26, 2000",medium,form,True,True,4.513,6.554,"July 26, 2000",True,0.894
+127,essenza di wills,medium,Image/Photo,True,True,2.305,2.009,Essenza Di Wills,True,0.673
+128,fiama di wills,medium,Image/Photo,True,True,2.247,2.047,Fiama Di Wills,True,0.681
+129,fiama di wills,medium,free_text,True,True,2.792,3.412,Fiama Di Wills,True,0.674
+130,essenza di wills,medium,free_text,True,True,2.211,2.018,Essenza Di Wills,True,0.677
+131,34,simple,layout,True,True,2.461,2.799,34,True,0.548
+132,the irish sea,medium,layout,True,True,2.282,1.268,The sea bird wreck occurred in the Irish Sea.,True,1.027
+133,autumn 1969,simple,layout,True,True,1.882,0.722,The sea bird wreck occurred in the Irish Sea in Autumn 1969.,True,1.463
+134,yes,simple,table/list,True,True,2.43,2.686,Yes,True,0.486
+135,the natural environment research council,medium,layout,True,True,1.562,0.761,The Natural Environment Research Council,True,0.664
+136,"19,000",simple,table/list,True,True,4.583,2.963,"19,000",True,0.691
+137,1971,simple,layout,True,True,1.57,0.715,1971,True,0.612
+138,itc limited,simple,layout,True,True,1.749,1.668,ITC Limited,True,0.589
+139,"34,500",simple,table/list,True,True,3.729,3.839,"34,500",True,0.687
+140,stock keeping units,medium,free_text,True,True,1.722,1.656,Stock Keeping Unit,False,0.571
+141,bird,simple,layout,True,True,1.563,0.707,The image shows the picture of a bird.,True,0.841
+142,PROJECT ASSIGNMENT FORM,medium,layout,True,True,4.61,6.426,PROJECT ASSIGNMENT FORM,True,0.618
+143,SARGASSO SEA TEMPERATURE,medium,figure/diagram,True,True,11.763,9.219,Sargasso Sea Temperature,True,0.667
+144,Exxonmobil,simple,layout,False,False,11.62,11.406,ExxonMobil,True,0.614
+145,"John A. SMith, Ph.D.",medium,form,True,True,4.137,6.793,"John A. Smith, Ph.D.",True,0.768
+146,vivel,simple,Image/Photo,False,False,1.895,1.668,Vivel,True,0.576
+147,215-741-4052,simple,form,True,True,4.024,6.57,215-741-4052,True,1.151
+148,the natural environment research council,medium,Image/Photo,True,True,1.761,0.719,THE NATURAL ENVIRONMENT RESEARCH COUNCIL,True,1.102
+149,series c no4,medium,layout,True,True,1.574,0.738,series c no4 1971,True,1.004
+150,25.9,simple,table/list,False,False,2.992,2.602,25.9,True,0.602
+151,18 million,simple,free_text,True,True,4.597,3.304,18 million,True,0.565
+152,Philip Morris Super Lights,medium,free_text,True,True,2.706,3.114,Philip Morris Super Lights,True,0.602
+153,690,simple,table/list,True,True,4.47,3.32,690,True,0.559
+154,INTER-OFFICE CORRESPONDENCE,simple,layout,False,True,6.719,8.468,inter-office correspondence,True,0.566
+155,"Hartsville , TN",medium,form,False,False,1.122,1.065,"Hartsville, TN",False,0.659
+156,21.0,simple,table/list,False,False,3.049,2.572,21.0,True,0.617
+157,Maria Shulleeta,simple,form,True,True,8.79,6.727,Maria Shulleeta,True,0.612
+158,- 2 -,medium,layout,False,False,2.43,1.243,2,False,0.474
+159,inter and intra federal government coordination,medium,layout,False,False,1.62,0.732,INTER AND INTRA FEDERAL GOVERNMENT COORDINATION,True,1.029
+160,charles d. nesbit,medium,table/list,True,True,2.311,2.262,Charles D. Nesbit,True,0.685
+161,the organizing committee,medium,layout,True,True,1.539,1.315,The Organizing Committee,True,0.622
+162,international union of nutritional sciences,medium,layout,False,False,2.449,2.286,International Union of Nutritional Sciences,True,0.72
+163,8:15 to 8:56 a.m.,medium,table/list,False,False,2.317,2.19,8:15 to 8:56 a.m.,True,1.132
+164,"september 3 to 9, 1972",medium,layout,True,True,1.547,1.307,"September 3 to 9, 1972.",True,1.227
+165,charles d. nesbit,medium,table/list,True,True,2.354,3.668,Charles D. Nesbit,True,0.749
+166,international congress of nutrition,medium,layout,False,False,1.931,1.325,international congress of nutrition,True,0.703
+167,mexican government,simple,layout,True,True,1.481,1.303,Mexican Government,True,0.611
+168,questions and answers,medium,table/list,True,True,2.397,2.17,Questions and Answers,True,0.584
+169,"english, french and spanish",medium,form,False,False,2.294,2.276,"English, French and Spanish",True,0.667
+170,questions and answers,medium,table/list,True,True,2.546,2.21,"""Questions and Answers""",True,0.694
+171,mexico city,simple,layout,True,True,1.536,1.341,Mexico City,True,0.532
+172,charles d. nesbit,medium,table/list,True,True,2.31,3.429,"Charles D. Nesbit, IARW Chairman",True,0.888
+173,"february 7, 1994",medium,form,True,True,4.415,3.911,"February 7, 1994",True,0.832
+174,brown & williamson tobacco corporation,medium,layout,False,True,3.951,5.615,BROWN & WILLIAMSON TOBACCO CORPORATION,True,0.926
+175,approved,simple,free_text,True,True,3.637,4.039,Approved.,True,0.546
+176,"monday, may 15",medium,layout,True,True,3.709,3.025,"MONDAY, MAY 15",True,0.757
+177,94.7680,simple,table/list,True,True,2.432,2.597,94.7680,True,0.744
+178,60-1120,simple,table/list,True,True,2.408,3.417,60-1120,True,0.743
+179,110-120 f,simple,free_text,True,True,3.469,2.509,110-120 F.,True,0.861
+180,4-30-92,simple,handwritten,False,False,2.671,2.725,4-30-92,True,0.888
+181,laboratory research division,medium,layout,True,True,2.879,1.953,Research Service Department,False,0.618
+182,University of Maine,medium,free_text,True,True,6.354,7.423,University of Maine,True,0.611
+183,Forest Products Laboratory,medium,free_text,True,True,6.826,6.973,James River,False,0.548
+184,proprietary cellulose acetate web,medium,free_text,False,False,7.405,6.653,The patent specification from James River describes their proprietary cellulose acetate web.,True,1.284
+185,research department,simple,layout,True,False,3.286,1.155,Growth and Respiration Section,False,0.711
+186,research service department,medium,layout,False,False,2.094,1.139,Research Service Department,True,0.575
+187,"USMM 1/95-6/95, 12-Month Data",medium,form,True,True,1.112,1.091,"USMM 1/95-6/95, 12-Month Data",True,1.302
+188,KOOLS,simple,table/list,True,True,3.051,4.768,KOOLS.,True,0.571
+189,78.2%,simple,table/list,True,True,1.134,1.055,78.2%,True,0.669
+190,CAPRI,simple,table/list,True,True,2.975,2.783,CAPRI,True,0.529
+191,"August 31, 1963",medium,layout,True,True,3.872,4.035,"August 31, 1963",True,0.931
+192,31,simple,table/list,False,False,1.099,1.073,31,True,0.526
+193,"$ 7,265,516",simple,table/list,False,False,3.048,2.762,"$ 7,265,516",True,0.944
+194,METH DEV,simple,table/list,True,True,3.723,3.101,METH DEV,True,0.577
+195,TVB,simple,table/list,True,False,2.554,2.367,TVB,True,0.533
+196,1.0,simple,table/list,False,False,2.491,3.198,1.0,True,0.577
+197,"8,899,947",simple,table/list,True,True,4.17,2.704,"$ 7,265,516",False,1.131
+198,6,simple,table/list,True,True,2.448,2.299,6,True,0.498
+199,administration,simple,table/list,False,True,4.544,3.129,administration,True,0.514
+200,"$ 3,038,444",simple,table/list,False,False,3.051,2.703,"$ 3,038,444",True,1.102
+201,KOOL KS,simple,layout,True,True,1.528,2.512,Kool KS,True,0.587
+202,KOOL KS,simple,free_text,True,True,2.684,1.724,KOOL KS,True,0.593
+203,1R4F REFERENCE RESULTS,medium,layout,True,True,1.201,1.244,1R4F,False,0.617
+204,AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100,complex,figure/diagram,False,False,1.155,1.216,1R4F REFERENCE RESULTS,False,0.745
+205,MT-778,simple,form,True,True,6.98,6.109,MT-778,True,0.662
+206,"CASED, REDR BUR FOR BEST 327391",medium,form,True,True,5.839,7.395,"cased, redr bur for best 327391",True,1.062
+207,"1,228.2",simple,table/list,True,True,5.488,7.693,"1,228.2",True,0.781
+208,28.0,simple,table/list,True,True,5.464,7.66,28.0,True,0.611
+209,Z86,simple,form,True,True,2.511,3.224,Z86,True,0.582
+210,Consumer Dynamics GPC,medium,layout,False,False,1.34,1.074,Consumer Dynamics,False,0.535
+211,(89),simple,table/list,False,False,1.38,1.869,89,False,0.536
+212,69,simple,table/list,False,False,2.252,1.241,(69),True,0.614
+213,2.5%,simple,table/list,True,True,1.281,1.066,2.5%,True,0.627
+214,"USMM 1/95-6/95, 12 Month Data",medium,form,False,False,1.299,1.106,"USMM 1/95-6/95, 12-Month Data",False,1.421
+215,12427,simple,table/list,True,True,2.508,3.876,12427,True,0.742
+216,12,simple,table/list,True,True,3.539,3.016,12,True,0.566
+217,Citrate,simple,free_text,True,True,2.422,3.05,Citrate,True,0.556
+218,KOOL KS and CAPRI 100,medium,table/list,False,False,3.866,3.516,"Kool KS, CAFRI 100",False,1.156
+219,"Fred L. Smith, Jr.",medium,free_text,False,False,7.214,8.469,"FRED L. SMITH, JR.",True,0.838
+220,14-3006-14,simple,form,True,True,3.918,4.95,14-3006-14,True,0.892
+221,"Fred L. Smith, Jr.",medium,free_text,False,False,8.167,7.989,"FRED L. SMITH, JR.",True,0.855
+222,BURKE,simple,form,True,True,4.43,4.114,BURKE,True,0.571
+223,Sidestream Smoke Chamber,medium,free_text,True,True,9.36,6.526,Sidestream Smoke Chamber,True,0.669
+224,Zero Span,simple,free_text,True,True,9.337,6.618,zero span,True,0.526
+225,University of Maine,medium,free_text,True,True,9.325,7.307,University of Maine,True,0.573
+226,12,simple,layout,False,False,2.546,1.197,12,True,0.546
+227,1,simple,layout,True,True,1.658,1.112,1,True,0.514
+228,weeks of consumption,medium,figure/diagram,True,True,1.663,1.069,weeks of consumption,True,0.585
+229,paul saltman,simple,layout,False,False,2.611,5.717,Paul Baltman,False,0.576
+230,diet consumed [mls],medium,figure/diagram,False,False,1.671,1.103,Diet consumed [ML],False,0.755
+231,NNK,simple,free_text,True,True,7.244,9.213,NNK,True,0.526
+232,tobacco-specific nitrosamine,simple,free_text,True,True,8.785,7.957,NNK is carcinogenic in laboratory animals.,False,0.991
+233,The levels ranged from 0.05 - 0.23 ppm,complex,free_text,True,True,9.1,7.585,45%,False,0.617
+234,"Control [C], Thiamine deficient [TD], Ethanol-fed [ET], AND [TD+ ET] groups",complex,layout,False,False,2.082,1.909,"control [C], thiamine deficient [TD], ethanol-fed [ET], and [TD + ET] groups",False,1.839
+235,Hongkong,simple,form,False,False,3.388,3.686,Kuangchow,False,0.687
+236,change of due dates for monthly payroll recommendations for december - academic and nonacademic,complex,form,False,False,3.691,3.86,Change of Due Dates for Monthly Payroll Recommendations for December - Academic and Nonacademic,True,1.157
+237,240.00,simple,table/list,False,False,8.323,10.758,241.00,False,0.733
+238,thiamine deficient,simple,layout,True,True,1.683,1.106,Thiamine Deficient,True,0.673
+239,dean's office,simple,form,True,True,3.676,4.035,DEAN'S OFFICE,True,0.673
+240,2,simple,figure/diagram,True,True,2.093,1.096,2,True,0.495
+241,62272,simple,form,True,True,7.332,6.689,2665-16,False,0.772
+242,thiamine deficient [td],medium,figure/diagram,True,True,1.675,1.087,TD + ET,False,0.578
+243,KOOL 100,simple,free_text,True,True,2.097,1.867,B&W,False,0.533
+244,B&W,simple,free_text,False,False,2.186,3.293,B&W,True,0.536
+245,0.57%,simple,free_text,True,True,2.682,1.868,0.57%,True,0.664
+246,c,simple,figure/diagram,True,True,1.657,1.086,C,True,0.501
+247,93-51954,simple,form,True,True,9.464,4.677,93-51654,False,0.802
+248,1994,simple,free_text,True,True,2.184,1.925,1994,True,0.692
+249,c,simple,figure/diagram,True,True,2.488,1.904,C,True,0.512
+250,11/8/2001,simple,others,True,True,7.098,8.873,11/8/2001,True,1.0
+251,Nicotine RSM Study,medium,table/list,True,True,1.238,1.366,nicotine RSM study,True,0.746
+252,et,simple,figure/diagram,True,True,1.655,1.091,TD + ET,True,0.608
+253,MAJOR STRATEGIC RESEARCH PROGRAMS,medium,layout,True,True,1.239,1.35,Nicotine RSM Study,False,0.688
+254,DESCRIPTION,simple,table/list,True,True,1.276,2.313,major strategic research programs,False,0.629
+255,"may 2, 1978",medium,form,False,True,3.586,3.636,"May 2, 1978.",True,0.89
+256,51092 5213,simple,layout,False,False,1.225,1.319,510925,False,0.725
+257,curriculum vitae,simple,layout,True,True,3.292,4.259,CURRICULUM VITAE,True,0.744
+258,hormone replacement therapy,medium,free_text,True,True,6.988,8.791,Hormone Replacement Therapy,True,0.667
+259,thomas a. mccoy,medium,layout,True,True,3.023,2.598,Thomas A. McCoy,True,0.614
+260,For all our tomorrows,medium,layout,False,False,1.548,4.609,For All Our Tomorrows,True,0.708
+261,Sustainability updates,simple,layout,False,False,2.046,3.184,Sustainability Updates,True,0.585
+262,Mangaldeep,simple,free_text,False,False,1.519,3.178,Mangaldeep,True,0.631
+263,5960 c,simple,form,False,False,1.611,2.574,5960 C,True,0.669
+264,december 1958,simple,layout,True,True,3.597,2.548,December 1958,True,0.696
+265,Sehore,simple,free_text,False,True,1.573,3.135,Madhya Pradesh,False,0.579
+266,Madhya Pradesh,simple,free_text,False,True,1.936,4.721,Madhya Pradesh,True,0.634
+267,education,simple,table/list,True,True,3.034,2.567,PERSONAL HISTORY,False,0.6
+268,vanderbilt university,simple,free_text,True,True,1.634,1.369,Vanderbilt University,True,0.688
+269,"march 22, 1921",medium,form,True,True,4.912,2.576,"March 22, 1921",True,1.045
+270,1.0%,simple,table/list,True,True,1.181,1.366,1.0%,True,0.613
+271,83.4%,simple,handwritten,False,False,1.593,1.5,85.4%,False,0.682
+272,"public schools of ponca city, oklahoma",medium,table/list,True,True,4.037,3.591,University of Oklahoma,False,0.57
+273,6.1%,simple,table/list,True,True,1.196,1.377,6.1%,True,0.618
+274,WelcomHotel,simple,free_text,True,True,11.104,10.505,WelcomHotel,True,0.587
+275,WelcomHeritage,simple,free_text,True,True,10.792,12.273,WelcomHeritage,True,0.634
+276,Dec-08,simple,figure/diagram,False,True,11.213,11.498,Aug 08,False,0.624
+277,ITC-Welcomgroup,simple,free_text,True,True,9.699,12.234,WelcomHeritage,False,0.622
+278,-13%,simple,figure/diagram,False,False,11.34,12.122,-15%,False,0.618
+279,10.3%,simple,table/list,True,True,1.33,1.44,10.3%,True,0.662
+280,CMRO,simple,free_text,True,True,6.178,12.472,CMRO,True,0.531
+281,N. Anand,simple,table/list,True,True,9.69,7.458,N. Anand,True,0.629
+282,1952,simple,table/list,False,False,4.568,3.02,1952,True,0.616
+283,Virginia Slims Superslims Consumer Testing,medium,form,True,True,5.784,7.587,Virginia Slims Superslims Consumer Testing,True,0.806
+284,360-666-3549,simple,form,False,False,6.218,12.723,360-666-3549,True,1.178
+285,800-686-2276,simple,form,False,True,6.839,11.859,800-686-2276,True,1.186
+286,www.pharmedassociates.com,simple,form,False,False,8.214,12.52,www.pharmmedassociates.com,False,0.845
+287,4,simple,table/list,True,True,7.716,9.439,4,True,0.522
+288,14,simple,table/list,True,True,8.096,9.223,14,True,0.543
+289,2195,simple,form,False,False,7.328,11.331,$2195,True,0.681
+290,Page Callaham,simple,form,True,True,3.85,2.91,Page Callaham,True,0.615
+291,$ 1795,simple,form,False,False,6.391,12.528,$1795,False,0.655
+292,100.99,simple,table/list,True,True,7.015,7.626,100.99,True,0.717
+293,1095,simple,form,False,False,7.744,11.052,$1795,False,0.671
+294,12.19,simple,table/list,True,True,7.937,6.948,1.0,False,0.581
+295,209.54,simple,table/list,True,True,7.808,6.891,104.77,False,0.728
+296,Conversion of Loan to Equity,medium,table/list,True,True,7.812,7.009,Remuneration to Key Management Personnel,False,0.772
+297,Donation,simple,table/list,True,True,8.012,7.074,Remuneration to Key Management Personnel,False,0.769
+298,monthly,simple,form,True,True,7.476,5.211,MONTHLY,True,0.536
+299,06/15/74,simple,form,False,False,7.594,5.148,06/15/74,True,0.801

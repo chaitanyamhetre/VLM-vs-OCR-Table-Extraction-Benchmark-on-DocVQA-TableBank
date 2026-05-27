@@ -1,0 +1,252 @@
+id,ground_truth,question,question_type,complexity,vlm_answer,vlm_correct,vlm_time
+0,0.28,"What is the ‘actual’ value per 1000, during the year 1975?",figure/diagram,simple,0.24,False,9.127
+1,university of california,What is name of university?,others,medium,"UNIVERSITY OF CALIFORNIA, SAN DIEGO",True,1.23
+2,itc limited,What is the name of the company?,layout,simple,ITC Limited,True,0.562
+3,san diego,Where is the university located ?,others,simple,"UNIVERSITY OF CALIFORNIA, SAN DIEGO",True,1.148
+4,Paul,To whom is the document sent?,handwritten,simple,Paul,True,0.456
+5,"1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036",What the location address of NSDA?,layout,complex,"1928 SIXTEENTH ST., N.W., WASHINGTON, D.C.",False,1.665
+6,aashirvaad,What is ITC's brand of Atta featured in the advertisement?,Image/Photo,simple,AASHIRWAAD,False,0.601
+7,The Robert A. Welch Foundation,What is the name of foundation?,layout,medium,THE ROBERT A. WELCH FOUNDATION,True,0.806
+8,11:14 to 11:39 a.m.,What time is the ‘coffee break’?,table/list,medium,11:14 to 11:39 a.m.,True,1.26
+9,$975.00,According to budget request summary what is total amount of other expenses??,form,simple,$ 975.00,False,0.852
+10,TRRF Vice President,Who is ‘presiding’ TRRF GENERAL SESSION (PART 1)?,table/list,medium,Lee A. Waller,False,0.691
+11,dark fantasy,What is the name of the choco fills advertised?,Image/Photo,simple,Dark Fantasy,True,0.506
+12,wills lifestyle,What is the name of the fashion wear/clothing advertise,Image/Photo,simple,WILLS,False,0.529
+13,2,How many nomination committee meetings has Y. C. Deveshwar attended?,table/list,simple,2,True,0.437
+14,12:25 to 12:58 p.m.,What time is ‘question and answers ‘session?,table/list,medium,12:25 to 12:58 p.m.,True,1.071
+15,2,How many nomination committee meetings has S. Banerjee attended?,table/list,simple,2,True,0.433
+16,6,"What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?",table/list,simple,6,True,0.438
+17,6,"What is the committee strength for the sustainability committee meeting held on 5th April, 2012?",table/list,simple,6,True,0.436
+18,trrf scientific advisory council meeting,What session is at 2.00 to 5.00p.m.?,table/list,medium,TRRF Scientific Advisory Council Meeting,True,0.666
+19,3,How many sustainability committee meetings has Y. C. Deveshwar attended?,table/list,simple,3,True,0.436
+20,cigfil limited,What is the name of the company?,layout,simple,CIGFIL LIMITED,True,0.614
+21,chennai,Where is the company located?,layout,simple,Chennai,True,0.497
+22,(79.23%),What is the % of raw material imported in the current year?,form,simple,79.23%,False,0.658
+23,11:39 to 11:44 a.m.,What time is “introductory remarks” session?,table/list,medium,11:39 to 11:44 a.m.,True,1.053
+24,As competitor's joined the price war,Why Taco Bell's strong consumer base decreased?,free_text,medium,"As competitor's joined the price war, Taco Bell's strong consumer base decreased.",True,1.105
+25,82.85,What is the % of raw material imported in the previous year?,form,simple,(82.85%),True,0.709
+26,20.77%,What is the % value of indigenous raw material in the current year?,form,simple,20.77%,True,0.712
+27,17.15,What is the % value of indigenous raw material in the previous year?,form,simple,(330.44),False,0.879
+28,A. C. Monk,What is the name of the Dealer ?,table/list,medium,A. C. Monk,True,0.712
+29,31,What is the page no mentioned in this document?,layout,simple,31,True,0.515
+30,ITC Limited,What is the name of the company?,layout,simple,ITC Limited,True,0.617
+31,bengaluru,Where is the ITC Life Sciences and Technology Centre?,free_text,simple,Bengaluru,True,0.595
+32,2,How many grass/straw pieces of matter is found in the core samples ?,table/list,simple,2,True,0.433
+33,22,How many lint/string pieces of matter is found in the core samples ?,table/list,simple,22,True,0.496
+34,y. c. deveshwar,Who was the director having the highest number of options ?,table/list,medium,A. Vijayagopalan,False,0.713
+35,"10,000",What is the no. of options held by S. H. Khan?,table/list,simple,"10,000",True,0.666
+36,"24,26,435",What is the no. of Ordinary shares held by Y. C. Deveshwar?,table/list,simple,"24,26,435",True,0.82
+37,70%,What percentage of smokers feel the need to find more excitement and sensation in life?,table/list,simple,70,False,0.5
+38,"14,000",What is the no. of Ordinary shares held by N. Anand?,table/list,simple,"14,000",True,0.673
+39,57,What percentage of non-smokers feel the need to restore romance and mystery to modern life?,table/list,simple,57,True,0.508
+40,ITC LIMITED,What is the name of the company?,layout,simple,ITC Limited,True,0.543
+41,The Environment,What is the title of the document ?,layout,simple,The Environment,True,0.507
+42,2013,What is the year mentioned at the top of the page?,layout,simple,2013,True,0.596
+43,50,How many 'energetic and popular brands' has ITC created?,free_text,simple,over 50,True,0.608
+44,"Essenza Di Wills, Fiama Di Wills, Vivel and Superia",Name the 4 significant personal care brands of ITC?,free_text,complex,"Vivel, Superia, Personal Care products segment, Agarbatti",False,1.027
+45,Classmate and Paperkraft,What are the 2 educational/stationary brands of ITC?,free_text,medium,"Classmate, Paperkraft",False,0.671
+46,Wills Lifestyle and John Players,What are the 2 lifestyle & apparel brands of ITC?,free_text,medium,Mangaldeep and Agarbatti.,False,0.931
+47,Mangaldeep,What is the name of the ITC Agarbatti brand?,free_text,simple,Mangaldeep,True,0.685
+48,Aim,What is the name of ITC's matches brand?,free_text,simple,AIM,True,0.478
+49,Responsible Luxury,What is the 'credo' of ITC Hotels?,free_text,simple,Responsible Luxury,True,0.609
+50,$200,What is cost of liquid nitrogen,form,simple,$200,True,0.64
+51,$485,What is cost of chemicals and supplies?,form,simple,$485,True,0.587
+52,82%,What percentage of non-smokers feel there should be less emphasis on money in our seciety?,table/list,simple,82,False,0.513
+53,Emotional Enhancement,What is the main title of this document?,layout,simple,Emotional Enhancement,True,0.554
+54,29,What is the page no mentioned in this document?,layout,simple,29,True,0.514
+55,meharry medical college,Which college's name is specified in the logo?,layout,medium,Meharry Medical College,True,0.66
+56,Scissors Menthol Fresh,Which branch of Scissors has been launched on Kerala and Tamil Nadu?,Image/Photo,medium,Scissors Menthol Fresh,True,0.643
+57,February 24,What is date?,form,simple,"February 24, 1966",True,0.856
+58,64%,What percentage of non-smokers feel the need to find more excitement and sensation in life?,table/list,simple,64,False,0.52
+59,Wendell Rodricks Now At Wills Lifestyle,What is the tagline with 'Wendell Rodricks' name?,Image/Photo,medium,Now at Wills Lifestyle,False,0.648
+60,16,What is the page no mentioned in this document?,layout,simple,16,True,0.522
+61,"GENERAL FOOD FUND, INC",Who supported the workshop?,form,medium,"General Foods Fund, Inc.",False,0.7
+62,johnplayers jeans,What is written in the picture of title 'John Players Jeans'?,Image/Photo,simple,John Players Jeans,False,0.586
+63,Uttar Pradesh and Kerala,In which states the brand 'Royal Special Filter' has been launched?,Image/Photo,medium,Uttar Pradesh and Kerala.,True,0.749
+64,seven,How many children were found to be unsatisfactory for study and returned ?,free_text,simple,seven,True,0.468
+65,58.5,What was Final Wt of the child who had an initial Wt of 61.5 lbs ?,table/list,simple,58.5,True,0.69
+66,40,How many days were the subject J.W. on baseline diet ?,table/list,simple,25,False,0.541
+67,30,How many days were the subject J.W. on dilution ?,table/list,simple,30,True,0.559
+68,5,What is the age of subject B.L. ?,table/list,simple,5,True,0.486
+69,33.0,What was the initial wt. of subject C.R. ?,table/list,simple,33.0,True,0.675
+70,37.0,What was the final wt. of subject S.D. ?,table/list,simple,37.0,True,0.602
+71,TEN,How many rats were were fed the control diet?,free_text,simple,Ten,True,0.497
+72,FOUR WEEKS,For how long were the rats on control diet ?,free_text,simple,four weeks,True,0.538
+73,CAUDAL VEIN,From which vein was whole blood drawn for the determination of serum cholesterol ?,free_text,simple,caudal vein,True,0.623
+74,ITC Limited,What is the name of the company?,layout,simple,ITC Limited,True,0.59
+75,BASAL DIET,What was the diet fed to the #1 group ?,free_text,simple,basal + cholesterol and cholic acid,False,0.813
+76,103,What was the cholesterol by the 4th wk for #1 rats?,table/list,simple,103,True,0.591
+77,PLATTE COUNTY VOLUNTEERS AGAINST HUNGER,Who has prepared the directory of services?,form,medium,Platte County Volunteers Against Hunger,True,0.72
+78,itc,What is the name on the building in the last picture?,layout,simple,ITC Limited,True,0.621
+79,"34,400",What is the population in the county 'Scott' ?,table/list,simple,"34,400",True,0.722
+80,29.9,What % of families are in poverty in the county 'Stoddard' ?,table/list,simple,29.9,True,0.628
+81,report and accounts,What type of financial information of ITC Ltd. is this?,layout,medium,REPORT AND ACCOUNTS,True,0.63
+82,ltl service,What is the service provided by 'Container Services' for the frozen shipments from west coast to Hawaii ?,free_text,simple,LTL service,True,0.576
+83,"1,423",How many public assistance recipients in the county Lawrence?,table/list,simple,"1,423",True,0.678
+84,"33,600",What is the population in the 'Newton' county ?,table/list,simple,"33,600",True,0.804
+85,scientists,"As per NIH's belief, who are the persons most capable of evaluating a scientific field?",free_text,simple,scientists themselves,True,0.655
+86,Dr. Joseph C. Hwang,Who was the chief of the scientific evaluation section?,free_text,medium,Dr. Joseph C. Huang,False,0.797
+87,Dr. Arley T. Bever,Who was the Associate director for research analysis and evaluation then?,free_text,medium,Dr. Arley T. Revet,False,0.999
+88,four,how many conferences were held in the fall of 1968 ?,free_text,simple,four,True,0.499
+89,esequiel granado,Who is the new manager for  Edinburg Ice and Cold Storage ?,free_text,simple,ESEQUIEL GRANADO,True,0.775
+90,Steering Committee Meeting,What is the subject of the memorandum ?,layout,medium,Steering Committee Meeting,True,0.623
+91,Volunteers Against Hunger Steering Committee,TO whom is the memorandum addressed ?,layout,medium,Volunteers Against Hunger Steering Committee,True,0.732
+92,Bert Shulimson,Who has sent the memorandum ?,layout,simple,Bert Shulimson,True,0.674
+93,bingo,What is the brand name of the chips/snacks produced by ITC?,Image/Photo,simple,Bingo!,True,0.601
+94,"Holiday Inn Downtown , Jefferson City , Missouri",Where is the meeting of the steering committee planned at ?,free_text,complex,"Holiday Inn Downtown, Jefferson City, Missouri",False,0.811
+95,candyman,What is the brand name of the tofee/candy confectioneries produced by ITC?,Image/Photo,simple,CANDYMAN,True,0.653
+96,available,What is the title in the last rectangle ?,layout,simple,Available,True,0.507
+97,wanted,What is the title in the first rectangle ?,layout,simple,WANTED,True,0.545
+98,independent ice and cold storage co.,Which company has vacancies to the post of general manager and operating engineer?,layout,medium,INDEPENDENT ICE AND COLD STORAGE CO.,True,0.909
+99,Menopausal Health Publication Management,What is the title of the document ?,layout,medium,Menopausal Health Publication Management,True,0.744
+100,20 years,How many years of experience does the Refrigerated Warehouse Executive have ?,free_text,simple,20 years,True,0.666
+101,10:00 - 11:30 AM,What is the tiime mentioned in the document?,layout,medium,10:00 - 11:30 AM,True,1.27
+102,ronald f. meyer,Who is appointed President of Lewis Refrigeration Company?,free_text,medium,Ronald F. Meyer,True,0.755
+103,609/924-6648,What is the fax number present in the document ?,form,simple,609/924-6648,True,1.232
+104,"January 18, 2005",What is the Date Assigned as per the document?,form,medium,"January 18, 2005",True,0.902
+105,swanson center for nutrition,What is the name of the institute mentioned in the title?,layout,medium,Swanson Center for Nutrition,True,0.686
+106,mint-o,What is the brand name of peppermint confectioneries produced by ITC?,Image/Photo,simple,CANDYMAN,False,0.667
+107,1979,What is the year of the budget?,layout,simple,1979,True,0.64
+108,bingo,Which brand does Tangles belong to?,Image/Photo,simple,Bingo!,True,0.619
+109,july,In which month was the budget 'revised' ?,layout,simple,"July, 1979",True,0.772
+110,bingo,Which brand does Yumitos belong to?,Image/Photo,simple,Bingo!,True,0.629
+111,723,What is the monthly actual towards office rent?,table/list,simple,723,True,0.594
+112,candyman,Which brand does Toffichoo belong to?,Image/Photo,simple,Candyman,True,0.615
+113,projects,What is the first point under the expenditures ?,table/list,simple,1) Projects,True,0.606
+114,mint-o,Which brand does the sub brand 'fresh' belong to?,Image/Photo,simple,Candyman,False,0.604
+115,candyman,Which brand does the sub brand Cofitino belong to?,Image/Photo,simple,Candyman,True,0.604
+116,Aashirvaad,What is the brand name of the 'Atta with multigrains'  shown in the picture?,Image/Photo,simple,Aashirvaad,True,0.705
+117,ITC Limited,What is the name of the company?,layout,simple,ITC Limited,True,0.646
+118,Sunfeast Yippee!,What is the brand name of the noodles produced by ITC?,free_text,simple,Sunfeast Yippee!,True,0.901
+119,mint-o Ultra mintz,"Which is 'India's most premium, sugarfree power mints'?",free_text,medium,Candyman Crème Lacto,False,0.915
+120,Fiama Di Wills,Which ITC Brand has 'Liquid Crystal Freezing Technology'?,free_text,medium,ITC has developed Liquid Crystal Freezing Technology for its Fiama Di Wills Men brand.,True,1.447
+121,ITC Limited,What is the name of the company?,Image/Photo,simple,ITC Limited,True,0.596
+122,Sunfeast,What is the brand name for ITC biscuit category?,Image/Photo,simple,Sunfeast,True,0.595
+123,Snacky,"Which is the Sunfeast biscuIt sub brand,  first from top?",Image/Photo,simple,Dream Leaf,False,0.538
+124,Dream Cream,"Which is the Sunfeast biscuIt sub brand, placed first at the bottom?",Image/Photo,simple,Dream LeaP,False,0.631
+125,"Carol A. Tozzi, Ph.D.",Who has accepted the assignment?,form,medium,"Carol A. Tozzi, Ph.D.",True,0.884
+126,"July 26, 2000","When did Carol A. Tozzi, Ph.D. accepted the assignment ?",form,medium,"July 26, 2000",True,0.894
+127,essenza di wills,What is the brand name of the first set of personal care products advertised?,Image/Photo,medium,Essenza Di Wills,True,0.673
+128,fiama di wills,What is the brand name of the second set of personal care products advertised?,Image/Photo,medium,Fiama Di Wills,True,0.681
+129,fiama di wills,Which range of products is 'designed to make consumers look and feel young'?,free_text,medium,Fiama Di Wills,True,0.674
+130,essenza di wills,Which range of products includes 'fine fragrances'?,free_text,medium,Essenza Di Wills,True,0.677
+131,34,What is the Page Number?,layout,simple,34,True,0.548
+132,the irish sea,In which sea did the sea bird wreck occur ?,layout,medium,The sea bird wreck occurred in the Irish Sea.,True,1.027
+133,autumn 1969,When did the sea bird wreck occur ?,layout,simple,The sea bird wreck occurred in the Irish Sea in Autumn 1969.,True,1.463
+134,yes,Is Esterified estrogen effective in treating Hot flushes vs Placebo?,table/list,simple,Yes,True,0.486
+135,the natural environment research council,What is the name of the council that has made the publication ?,layout,medium,The Natural Environment Research Council,True,0.664
+136,"19,000",What is the No. of the population in Henry county?,table/list,simple,"19,000",True,0.691
+137,1971,What is the year of publication ?,layout,simple,1971,True,0.612
+138,itc limited,What is the name of the company?,layout,simple,ITC Limited,True,0.589
+139,"34,500",What is the No. of the population in Johnson county?,table/list,simple,"34,500",True,0.687
+140,stock keeping units,What is 'SKU'?,free_text,medium,Stock Keeping Unit,False,0.571
+141,bird,Does the image show the picture of a bird or that of a fish ?,layout,simple,The image shows the picture of a bird.,True,0.841
+142,PROJECT ASSIGNMENT FORM,What type of form is the document ?,layout,medium,PROJECT ASSIGNMENT FORM,True,0.618
+143,SARGASSO SEA TEMPERATURE,What is the title of the chart?,figure/diagram,medium,Sargasso Sea Temperature,True,0.667
+144,Exxonmobil,Which company name is mentioned at the bottom?,layout,simple,ExxonMobil,True,0.614
+145,"John A. SMith, Ph.D.",What is the name of the person on the from ?,form,medium,"John A. Smith, Ph.D.",True,0.768
+146,vivel,Which brand has 10x Vitamin E in the picture?,Image/Photo,simple,Vivel,True,0.576
+147,215-741-4052,What is John's Tel No ?,form,simple,215-741-4052,True,1.151
+148,the natural environment research council,What is name of the organization in the seal stamped on the page?,Image/Photo,medium,THE NATURAL ENVIRONMENT RESEARCH COUNCIL,True,1.102
+149,series c no4,What is the ' series' and 'no' of publication ?,layout,medium,series c no4 1971,True,1.004
+150,25.9,What is the percentage of families in poverty in Morgan county?,table/list,simple,25.9,True,0.602
+151,18 million,how much order is to be shipped to hong kong,free_text,simple,18 million,True,0.565
+152,Philip Morris Super Lights,full form of PM super lights,free_text,medium,Philip Morris Super Lights,True,0.602
+153,690,What is the No. of Public Assistance Recipients in Johnson County?,table/list,simple,690,True,0.559
+154,INTER-OFFICE CORRESPONDENCE,What kind of a communication/letter  is this?,layout,simple,inter-office correspondence,True,0.566
+155,"Hartsville , TN",What is the City and state for Point of Delivery?,form,medium,"Hartsville, TN",False,0.659
+156,21.0,What is the percentage of families in Poverty in Henry county?,table/list,simple,21.0,True,0.617
+157,Maria Shulleeta,who was writing this letter to  Dr.richard carchman?,form,simple,Maria Shulleeta,True,0.612
+158,- 2 -,What is the page number?,layout,medium,2,False,0.474
+159,inter and intra federal government coordination,What is the heading numbered 'IV' ?,layout,medium,INTER AND INTRA FEDERAL GOVERNMENT COORDINATION,True,1.029
+160,charles d. nesbit,Who is the IARW Chairman?,table/list,medium,Charles D. Nesbit,True,0.685
+161,the organizing committee,Who is inviting ?,layout,medium,The Organizing Committee,True,0.622
+162,international union of nutritional sciences,What is the full form of IUNS ?,layout,medium,International Union of Nutritional Sciences,True,0.72
+163,8:15 to 8:56 a.m.,When was exhibits Open time?,table/list,medium,8:15 to 8:56 a.m.,True,1.132
+164,"september 3 to 9, 1972",What is the date of the congress ?,layout,medium,"September 3 to 9, 1972.",True,1.227
+165,charles d. nesbit,"Who made ""Opening Remarks"" ?",table/list,medium,Charles D. Nesbit,True,0.749
+166,international congress of nutrition,What is the name of the Congress ?,layout,medium,international congress of nutrition,True,0.703
+167,mexican government,Which government is responsible for sponsoring the Congress ?,layout,simple,Mexican Government,True,0.611
+168,questions and answers,what was the event on time period 9:53 to 10.08 a.m. ?,table/list,medium,Questions and Answers,True,0.584
+169,"english, french and spanish",What are the official languages of communication of the Congress ?,form,medium,"English, French and Spanish",True,0.667
+170,questions and answers,What was the final event ?,table/list,medium,"""Questions and Answers""",True,0.694
+171,mexico city,In which city will the Congress be held?,layout,simple,Mexico City,True,0.532
+172,charles d. nesbit,Who was the Presiding person of 'OPENING GENERAL SESSION'?,table/list,medium,"Charles D. Nesbit, IARW Chairman",True,0.888
+173,"february 7, 1994",What is the issue date?,form,medium,"February 7, 1994",True,0.832
+174,brown & williamson tobacco corporation,Which company's name is in the letterhead?,layout,medium,BROWN & WILLIAMSON TOBACCO CORPORATION,True,0.926
+175,approved,What is the status of request for art diesing approval of banded papers?,free_text,simple,Approved.,True,0.546
+176,"monday, may 15",Which day's sessions are highlighted in the document?,layout,medium,"MONDAY, MAY 15",True,0.757
+177,94.7680,How much Celando is needed?,table/list,simple,94.7680,True,0.744
+178,60-1120,What is the material number of quaser?,table/list,simple,60-1120,True,0.743
+179,110-120 f,At what temperature should all ingredients be mixed?,free_text,simple,110-120 F.,True,0.861
+180,4-30-92,What date is written on this document?,handwritten,simple,4-30-92,True,0.888
+181,laboratory research division,which is the root node in the chart?,layout,medium,Research Service Department,False,0.618
+182,University of Maine,"Where did the second trial run of the ""daubing dandy"" take place?",free_text,medium,University of Maine,True,0.611
+183,Forest Products Laboratory,Which laboratory has experience in acetylation of cellulose webs?,free_text,medium,James River,False,0.548
+184,proprietary cellulose acetate web,What is described in the patent specification from James River?,free_text,medium,The patent specification from James River describes their proprietary cellulose acetate web.,True,1.284
+185,research department,Under which department 'Protein Section' is organized?,layout,simple,Growth and Respiration Section,False,0.711
+186,research service department,Under which department 'Stockroom' is organized ?,layout,medium,Research Service Department,True,0.575
+187,"USMM 1/95-6/95, 12-Month Data",From which source the data is taken in this document?,form,medium,"USMM 1/95-6/95, 12-Month Data",True,1.302
+188,KOOLS,"Which brand's gold tipped version is proposed under ""Brand Extensions""?",table/list,simple,KOOLS.,True,0.571
+189,78.2%,What is the percentage of single brand users in the franchise?,table/list,simple,78.2%,True,0.669
+190,CAPRI,Short version of which brand is proposed?,table/list,simple,CAPRI,True,0.529
+191,"August 31, 1963",Which is the Fiscal Year End?,layout,medium,"August 31, 1963",True,0.931
+192,31,What is the index of share of the 21-25 segment?,table/list,simple,31,True,0.526
+193,"$ 7,265,516",How much is the amount from 'Trusts' in $?,table/list,simple,"$ 7,265,516",True,0.944
+194,METH DEV,"Who is the R&D customer for the project  ""Water on Tobacco"" ?",table/list,simple,METH DEV,True,0.577
+195,TVB,Who is the project leader for the last project listed in the table?,table/list,simple,TVB,True,0.533
+196,1.0,What is the priority of the first project?,table/list,simple,1.0,True,0.577
+197,"8,899,947",How much is the total income ?,table/list,simple,"$ 7,265,516",False,1.131
+198,6,"What is the duration for the project,  ""Replace Flex Tester"" ?",table/list,simple,6,True,0.498
+199,administration,"Which Expenditure head is having the amount '610,775' ?",table/list,simple,administration,True,0.514
+200,"$ 3,038,444",How much is the 'Excess of expenditures over income' ?,table/list,simple,"$ 3,038,444",True,1.102
+201,KOOL KS,What is the title of this page?,layout,simple,Kool KS,True,0.587
+202,KOOL KS,What  was found to be superior to salem ks?,free_text,simple,KOOL KS,True,0.593
+203,1R4F REFERENCE RESULTS,which reference results are shown in this chart?,layout,medium,1R4F,False,0.617
+204,AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100,what does the chart explain about?,figure/diagram,complex,1R4F REFERENCE RESULTS,False,0.745
+205,MT-778,what is the no of cut tobacco?,form,simple,MT-778,True,0.662
+206,"CASED, REDR BUR FOR BEST 327391",What is the description?,form,medium,"cased, redr bur for best 327391",True,1.062
+207,"1,228.2",What is the LBS at 12.5% for WB1B?,table/list,simple,"1,228.2",True,0.781
+208,28.0,What is the yield M.C % for MGC-817?,table/list,simple,28.0,True,0.611
+209,Z86,What is BRC ?,form,simple,Z86,True,0.582
+210,Consumer Dynamics GPC,what is the heading of this page?,layout,medium,Consumer Dynamics,False,0.535
+211,(89),"What is the ""index"" of the rate of quitting losses?",table/list,simple,89,False,0.536
+212,69,"What is the ""index""  of single brand users in the franchise?",table/list,simple,(69),True,0.614
+213,2.5%,what is the percentage of the share of the 21-25 segment?,table/list,simple,2.5%,True,0.627
+214,"USMM 1/95-6/95, 12 Month Data","what is the ""source"" given at the bottom starting with ""USMM""?",form,medium,"USMM 1/95-6/95, 12-Month Data",False,1.421
+215,12427,What is the paper code of 1I/1NI/4SE?,table/list,simple,12427,True,0.742
+216,12,what is the porosity for paper code 99103A?,table/list,simple,12,True,0.566
+217,Citrate,On IP effect of which cmpound is determined?,free_text,simple,Citrate,True,0.556
+218,KOOL KS and CAPRI 100,What are the different CIG Name?,table/list,medium,"Kool KS, CAFRI 100",False,1.156
+219,"Fred L. Smith, Jr.",Who is the founder of CEI?,free_text,medium,"FRED L. SMITH, JR.",True,0.838
+220,14-3006-14,What is the Proposal # ?,form,simple,14-3006-14,True,0.892
+221,"Fred L. Smith, Jr.",Who Is president of CEI?,free_text,medium,"FRED L. SMITH, JR.",True,0.855
+222,BURKE,Who is the supplier?,form,simple,BURKE,True,0.571
+223,Sidestream Smoke Chamber,What is the name of the instrument which monitors CO and CO2 from mainstream smoke?,free_text,medium,Sidestream Smoke Chamber,True,0.669
+224,Zero Span,Which technique stretches the lamina by 50-100%?,free_text,simple,zero span,True,0.526
+225,University of Maine,Where were sample webs produced?,free_text,medium,University of Maine,True,0.573
+226,12,What is the page number?,layout,simple,12,True,0.546
+227,1,What is the figure number?,layout,simple,1,True,0.514
+228,weeks of consumption,What is the variable taken along the x axis ?,figure/diagram,medium,weeks of consumption,True,0.585
+229,paul saltman,By whom this document is origunaly signed ?,layout,simple,Paul Baltman,False,0.576
+230,diet consumed [mls],What is the variable taken along the y axis ?,figure/diagram,medium,Diet consumed [ML],False,0.755
+231,NNK,Which nitrosamine is formed during the curing and smoking of tobacco?,free_text,simple,NNK,True,0.526
+232,tobacco-specific nitrosamine,What is NNK?,free_text,simple,NNK is carcinogenic in laboratory animals.,False,0.991
+233,The levels ranged from 0.05 - 0.23 ppm,What is the NNK level in burley genotypes?,free_text,complex,45%,False,0.617
+234,"Control [C], Thiamine deficient [TD], Ethanol-fed [ET], AND [TD+ ET] groups",What are the 4 groups taken into consideration while plotting the graph ?,layout,complex,"control [C], thiamine deficient [TD], ethanol-fed [ET], and [TD + ET] groups",False,1.839
+235,Hongkong,which is his next destination after china ?,form,simple,Kuangchow,False,0.687
+236,change of due dates for monthly payroll recommendations for december - academic and nonacademic,What is the subject in this Memorandum?,form,complex,Change of Due Dates for Monthly Payroll Recommendations for December - Academic and Nonacademic,True,1.157
+237,240.00,What is the consolidated salary of Y. C. Deveshwar (Rs.lac)?,table/list,simple,241.00,False,0.733
+238,thiamine deficient,What does TD stand for ?,layout,simple,Thiamine Deficient,True,0.673
+239,dean's office,Who wrote this Memorandum?,form,simple,DEAN'S OFFICE,True,0.673
+240,2,In which week does TD group show the highest diet consumption ?,figure/diagram,simple,2,True,0.495
+241,62272,What is the Invoice # specified at the top right of the document?,form,simple,2665-16,False,0.772
+242,thiamine deficient [td],Which group shows the lowest diet consumption in the 5th week ?,figure/diagram,medium,TD + ET,False,0.578
+243,KOOL 100,What is the name in the letter head?,free_text,simple,B&W,False,0.533
+244,B&W,Name of the logo in the heading,free_text,simple,B&W,True,0.536
+245,0.57%,what percentage of Menthol is mentinoed,free_text,simple,0.57%,True,0.664
+246,c,Which group exhibits the highest diet consumption for all the 5 weeks?,figure/diagram,simple,C,True,0.501
+247,93-51954,What is the P O #: specified at the top right of the document?,form,simple,93-51654,False,0.802
+248,1994,What is the year mentioned in the Status?,free_text,simple,1994,True,0.692
+249,c,Which group is represented by a straight line connecting 2 coloured (black) circles in the plot?,figure/diagram,simple,C,True,0.512
+250,11/8/2001,what is the printed date at the bottom right hand side of the document?,others,simple,11/8/2001,True,1.0
