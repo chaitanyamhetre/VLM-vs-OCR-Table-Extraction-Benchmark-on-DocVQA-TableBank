@@ -1,0 +1,1 @@
+# VLM-vs-OCR-Table-Extraction-Benchmark-on-DocVQA--TableBank
