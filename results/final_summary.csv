@@ -1,0 +1,4 @@
+method,accuracy,avg_time
+OCR raw,0.647,3.99
+OCR + preprocessing,0.667,3.97
+Qwen2-VL 2B,0.77,0.74
